@@ -7,6 +7,8 @@ body {
     background-position-x: center;
     background-position-y: 400px;
     background-color:rgb(225, 235, 235); 
+
+    /*The Lamar Background image using all the key value pairs above that start with background*/
 }
 
 a {

@@ -18,11 +18,12 @@ function printHighscores() {
   });
 }
 
+// Removing the high scores from the local storage by accessing the key called high scores & then reloading the page 
 function clearHighscores() {
   window.localStorage.removeItem("highscores");
   window.location.reload();
 }
-
+// Adding on click action to the clear button 
 document.getElementById("clear").onclick = clearHighscores;
 
 // run function when page loads
