@@ -1,12 +1,13 @@
 # CJL-QUIZ
 ## Description:
-### This code displays a fully functional coding quiz, that break
+### This code displays a fully functional coding quiz.
 
 
 Screen SHOT of Application:
 
-![alt text](http://url/to/img.png)
-
+![Screenshot 1](screenshot1.png)
+![Screenshot 2](screenshot2.png)
+![Screenshot 3](screenshot3.png)
 
 [link to Deployed Application site!](https://clouis12.github.io/)
 
